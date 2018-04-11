@@ -1,0 +1,8 @@
+prefix=/home/iaguiluz/UCMEng_Collaboratory03/wsfinal/devel
+
+Name: husky_viz
+Description: Description of husky_viz
+Version: 0.2.2
+Cflags: 
+Libs: -L/home/iaguiluz/UCMEng_Collaboratory03/wsfinal/devel/lib 
+Requires: 

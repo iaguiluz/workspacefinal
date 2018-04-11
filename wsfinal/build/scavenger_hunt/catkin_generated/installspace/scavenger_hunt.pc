@@ -1,0 +1,8 @@
+prefix=/home/iaguiluz/UCMEng_Collaboratory03/wsfinal/install
+
+Name: scavenger_hunt
+Description: Description of scavenger_hunt
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/iaguiluz/UCMEng_Collaboratory03/wsfinal/install/lib 
+Requires: 

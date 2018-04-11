@@ -1,0 +1,8 @@
+prefix=/home/iaguiluz/UCMEng_Collaboratory03/wsfinal/devel
+
+Name: husky_bringup
+Description: Description of husky_bringup
+Version: 0.2.6
+Cflags: 
+Libs: -L/home/iaguiluz/UCMEng_Collaboratory03/wsfinal/devel/lib 
+Requires: 
